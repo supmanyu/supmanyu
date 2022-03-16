@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Sahitya</h1>
+<h1 align="center">Hello there 👋 I'm Sahitya</h1>
 <h3 align="center">Front developer extraordinare</h3>
 
 - 🔭 I’m currently working at [Bookee](https://www.bookeeapp.com)
