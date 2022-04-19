@@ -13,10 +13,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sahitya-upmanyu/](https://www.linkedin.com/in/sahitya-upmanyu/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supmanyu&show_icons=true&locale=en" alt="supmanyu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supmanyu&" alt="supmanyu" /></p>
