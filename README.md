@@ -1,9 +1,9 @@
 <h1 align="center">Hello there 👋 I'm Sahitya</h1>
 <h3 align="center">Front developer extraordinare</h3>
 
-- 🔭 I’m currently working with [Bookee](https://www.bookeeapp.com)
+- 🔭 I’m currently working with [Edufund](https://www.educationfund.in)
 
-- 🌱 I’m currently developing with **React, Angular, TypeScript**
+- 🌱 I’m currently developing with **React Native and NextJS**
 
 - 🤝 I’m looking to collaborate with like-minded **developers!**
 
