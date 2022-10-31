@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋 I'm Sahitya</h1>
-<h3 align="center">Front developer extraordinare</h3>
+<h3 align="center">Developer extraordinare</h3>
 
 - 🔭 I’m currently working with [Edufund](https://www.educationfund.in)
 
