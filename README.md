@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with [Edufund](https://www.educationfund.in)
 
-- 🌱 I’m currently developing with **React Native and NextJS**
+- 🌱 I’m currently developing with **React Native and Node**
 
 - 🤝 I’m looking to collaborate with like-minded **developers!**
 
