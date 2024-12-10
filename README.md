@@ -1,9 +1,9 @@
 <h1 align="center">Hello there 👋 I'm Sahitya</h1>
 <h3 align="center">Developer extraordinare</h3>
 
-- 🔭 I’m currently working with [Edufund](https://www.educationfund.in)
+- 🔭 I’m currently working with [Moresand technologies]
 
-- 🌱 I’m currently developing with **React Native and Node**
+- 🌱 I’m currently developing with **Next.JS**
 
 - 🤝 I’m looking to collaborate with like-minded **developers!**
 
